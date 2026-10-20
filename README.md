@@ -87,3 +87,5 @@ MIT
 
 **Free Software developed for [Teknasyon Üçbüyücü Turnuvası!](https://ucbuyucuturnuvasi.com)**
 
+
+By VOID 
